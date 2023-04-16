@@ -1,0 +1,58 @@
+.text-h1 {
+}
+.text-h2 {
+}
+.text-h3 {
+}
+.text-h4 {
+}
+.text-h5 {
+}
+.text-h6 {
+}
+.text-subtitle1 {
+}
+.text-subtitle2 {
+}
+.text-body1 {
+}
+.text-body2 {
+}
+.text-caption {
+}
+.text-overline {
+}
+.text-weight-thin {
+}
+.text-weight-light {
+}
+.text-weight-regular {
+}
+.text-weight-medium {
+}
+.text-weight-bold {
+}
+.text-weight-bolder {
+}
+.text-right {
+}
+.text-left {
+}
+.text-center {
+}
+.text-justify {
+}
+.text-bold {
+}
+.text-italic {
+}
+.text-no-wrap {
+}
+.text-strike {
+}
+.text-uppercase {
+}
+.text-lowercase {
+}
+.text-capitalize {
+}

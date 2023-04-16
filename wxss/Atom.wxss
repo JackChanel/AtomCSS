@@ -1,0 +1,10 @@
+@import './Other.wxss';
+@import './Positioning.wxss';
+@import './Spacing.wxss';
+@import './Typography.wxss';
+@import './Layout.wxss';
+
+/* write your css here */
+.my-class {
+  display: block;
+}
