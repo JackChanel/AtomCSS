@@ -39,6 +39,7 @@
 .text-left {
 }
 .text-center {
+  text-align: center;
 }
 .text-justify {
 }
