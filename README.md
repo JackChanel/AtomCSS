@@ -1,5 +1,5 @@
 ## 👋Welcome to use AtomCSS
-AtomCSS is a CSS atomic library that can be imported directly into a project without any build tools. Its style naming style is based on the Quasar framework.
+AtomCSS is a CSS atomic library that can be imported directly into a project without any build tools. Its style naming style is based on the Quasar framework.But you can use it anywhere!👓
 ### Advantages
 📦 Small file size 
 🐣 Strong compatibility
