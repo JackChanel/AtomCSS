@@ -1,5 +1,5 @@
 ## 👋Welcome to use AtomCSS
-AtomCSS is a CSS atomic library that can be imported directly into a project without any build tools. Its style naming style is based on the [Quasar](https://quasar.dev/introduction-to-quasar Quasar) framework.But you can use it anywhere!👓
+AtomCSS is a CSS atomic library that can be imported directly into a project without any build tools. Its style naming style is based on the [Quasar framework](https://quasar.dev/introduction-to-quasar). But you can use it anywhere! 👓
 ### Advantages
 📦 Small file size <br>
 🐣 Strong compatibility <br>
@@ -9,7 +9,7 @@ AtomCSS is a CSS atomic library that can be imported directly into a project wit
 ### Howto
 Use the `import "path/of/AtomCSS.css";` statement in your project’s global CSS file to import AtomCSS into your project. 😆
 ### Explanation
-You can use `build.js` to define the width of spacing, and after generation, please copy the output code to the corresponding CSS file.
+You can use `build.js` to define the width of spacing, and after generation, please copy the output code to the corresponding CSS file. <br>
 how to run `build.js`?
 
 1. use browser console
