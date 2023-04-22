@@ -1,4 +1,3 @@
-/* Spacing: use build module to generate */
 .pt-none {
   padding-top: 0;
 }
@@ -16,6 +15,9 @@
 }
 .pt-xl {
   padding-top: 32rpx;
+}
+.pt-xxl {
+  padding-top: 20%;
 }
 .pr-none {
   padding-right: 0;
@@ -38,6 +40,9 @@
 .pr-xl {
   padding-right: 32rpx;
 }
+.pr-xxl {
+  padding-right: 20%;
+}
 .pb-none {
   padding-bottom: 0;
 }
@@ -55,6 +60,9 @@
 }
 .pb-xl {
   padding-bottom: 32rpx;
+}
+.pb-xxl {
+  padding-bottom: 20%;
 }
 .pl-none {
   padding-left: 0;
@@ -76,6 +84,9 @@
 }
 .pl-xl {
   padding-left: 32rpx;
+}
+.pl-xxl {
+  padding-left: 20%;
 }
 .pa-none {
   padding-top: 0;
@@ -113,6 +124,12 @@
   padding-bottom: 32rpx;
   padding-left: 32rpx;
 }
+.pa-xxl {
+  padding-top: 20%;
+  padding-right: 20%;
+  padding-bottom: 20%;
+  padding-left: 20%;
+}
 .px-none {
   padding-left: 0;
   padding-right: 0;
@@ -141,6 +158,10 @@
   padding-left: 32rpx;
   padding-right: 32rpx;
 }
+.px-xxl {
+  padding-left: 20%;
+  padding-right: 20%;
+}
 .py-none {
   padding-top: 0;
   padding-bottom: 0;
@@ -165,6 +186,10 @@
   padding-top: 32rpx;
   padding-bottom: 32rpx;
 }
+.py-xxl {
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
 .mt-none {
   margin-top: 0;
 }
@@ -182,6 +207,9 @@
 }
 .mt-xl {
   margin-top: 32rpx;
+}
+.mt-xxl {
+  margin-top: 20%;
 }
 .mr-none {
   margin-right: 0;
@@ -204,6 +232,9 @@
 .mr-xl {
   margin-right: 32rpx;
 }
+.mr-xxl {
+  margin-right: 20%;
+}
 .mb-none {
   margin-bottom: 0;
 }
@@ -221,6 +252,9 @@
 }
 .mb-xl {
   margin-bottom: 32rpx;
+}
+.mb-xxl {
+  margin-bottom: 20%;
 }
 .ml-none {
   margin-left: 0;
@@ -242,6 +276,9 @@
 }
 .ml-xl {
   margin-left: 32rpx;
+}
+.ml-xxl {
+  margin-left: 20%;
 }
 .ma-none {
   margin-top: 0;
@@ -279,6 +316,12 @@
   margin-bottom: 32rpx;
   margin-left: 32rpx;
 }
+.ma-xxl {
+  margin-top: 20%;
+  margin-right: 20%;
+  margin-bottom: 20%;
+  margin-left: 20%;
+}
 .mx-none {
   margin-left: 0;
   margin-right: 0;
@@ -307,6 +350,10 @@
   margin-left: 32rpx;
   margin-right: 32rpx;
 }
+.mx-xxl {
+  margin-left: 20%;
+  margin-right: 20%;
+}
 .my-none {
   margin-top: 0;
   margin-bottom: 0;
@@ -330,4 +377,8 @@
 .my-xl {
   margin-top: 32rpx;
   margin-bottom: 32rpx;
+}
+.my-xxl {
+  margin-top: 20%;
+  margin-bottom: 20%;
 }

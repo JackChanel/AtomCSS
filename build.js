@@ -19,7 +19,8 @@ const buildSpacing = function () {
     ['sm', '4rpx'],
     ['md', '8rpx'],
     ['lg', '16rpx'],
-    ['xl', '32rpx']
+    ['xl', '32rpx'],
+    ['xxl', '20%']
   ])
   let res = ''
   for (const t of T.keys()) {
@@ -53,7 +54,7 @@ const buildRotate = function () {
   console.log(res)
 }
 
-// buildSpacing()
+buildSpacing()
 // buildRotate()
 
 module.exports = {
