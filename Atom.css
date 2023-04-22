@@ -1,10 +1,11 @@
-@import './Other.wxss';
-@import './Positioning.wxss';
-@import './Spacing.wxss';
-@import './Typography.wxss';
-@import './Layout.wxss';
+@import url('Other.css');
+@import url('Positioning.css');
+@import url('Spacing.css');
+@import url('Typography.css');
+@import url('Layout.css');
 
 /* write your css here */
 .my-class {
   display: block;
+  background-color: red;
 }
